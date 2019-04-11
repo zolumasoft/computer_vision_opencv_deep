@@ -1,0 +1,6 @@
+Computer-Vision-with-Python/
+__pycache__
+*.pyc
+.DS_Store
+config.py
+.ipynb_checkpoints/
