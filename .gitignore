@@ -5,3 +5,5 @@ __pycache__
 config.py
 .ipynb_checkpoints/
 images/
+.vscode
+totally_new.jpg
